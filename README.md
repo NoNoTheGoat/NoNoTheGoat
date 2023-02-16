@@ -12,7 +12,7 @@ When I'm not coding, I enjoy helping my family and spending time with friends. I
 `If you're a fan of FiveM, I hope you'll check out my mods and see the creativity and hard work I put into every project. Thank you for stopping by and taking the time to read a little bit about me. I'm excited to see where this journey will take me and I can't wait to see what amazing projects I'll create next!`
 
 > _Teacher_; 
-+ **Hunter Worthington**
++ [Hunter Worthington](https://github.com/HunterDevelopment)
 
 [My Company](https://www.huntermodifications.org)
 
