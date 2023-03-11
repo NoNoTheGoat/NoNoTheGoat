@@ -18,3 +18,4 @@ When I'm not coding, I enjoy helping my family and spending time with friends. I
 
 
 ![Marty Robbins](https://media.discordapp.net/attachments/1063610536538939512/1071337543460724768/Marty_1.png?width=240&height=240)
+![NoNo](https://media.discordapp.net/attachments/1078832551776493579/1084032327014953021/image_2023-03-11_003424817_250x250.png?width=200&height=200)
