@@ -2,8 +2,10 @@
 
 
 
-<div align="left"><img alt="uwu"src="[https://discord.c99.nl/widget/theme-3/808332105108553759.png](https://discord.c99.nl/widget/theme-3/757589619499073597.png)"></div>
+<div align="center"><img alt="dicord"src="https://discord.c99.nl/widget/theme-3/757589619499073597.png"></div>
 
+<div align="center"><img alt= "owo"src ="https://spotify-github-profile.vercel.app/api/view?uid=31of66p6sxwy5algufh3hfclew2a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"></div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NoNoTheGoat&label=Profile%20views&color=0dd3b2&style=flat-square" alt="NoNoTheGoat" /> </p> </p>
 Hi there! My name is **Noah** (or **NoNo** for short), and I'm a 15-year-old developer with a passion for creating immersive gaming experiences. I specialize in developing mods for the popular online multiplayer game, FiveM, using the LUA programming language.
 
 I started my journey in the world of development in 2021 and have been continuously improving my skills ever since. It's amazing to see how far I've come in just a short amount of time. I was taught the basics of programming by an experienced developer, but I quickly surpassed their abilities and started developing mods that were even better than theirs!
@@ -17,8 +19,23 @@ When I'm not coding, I enjoy helping my family and spending time with friends. I
 > _Teacher_; 
 + [Hunter Worthington](https://github.com/HunterDevelopment)
 
-[My Company](https://www.huntermodifications.org)
 
 
-![Marty Robbins](https://media.discordapp.net/attachments/1063610536538939512/1071337543460724768/Marty_1.png?width=240&height=240)
-![NoNo](https://media.discordapp.net/attachments/1078832551776493579/1084032327014953021/image_2023-03-11_003424817_250x250.png?width=200&height=200)
+</p>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NoNoTheGoat&theme=dracula&count_private=true"></div>
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoNoTheGoat&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNoTheGoat&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+  </tr>
+ <table>
+   
+   
+   <h3 align="left">Talk With Me:</h3>
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/757589619499073597" target="_blank"><img alt="Account" title="Account" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/hZCbe3vaPy" target="_blank"><img alt="Discord-Server" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="twitter" height="32" width="32" /></a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
