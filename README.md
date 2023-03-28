@@ -1,6 +1,9 @@
 # Welcome,
 
 
+
+<div align="left"><img alt="uwu"src="[https://discord.c99.nl/widget/theme-3/808332105108553759.png](https://discord.c99.nl/widget/theme-3/757589619499073597.png)"></div>
+
 Hi there! My name is **Noah** (or **NoNo** for short), and I'm a 15-year-old developer with a passion for creating immersive gaming experiences. I specialize in developing mods for the popular online multiplayer game, FiveM, using the LUA programming language.
 
 I started my journey in the world of development in 2021 and have been continuously improving my skills ever since. It's amazing to see how far I've come in just a short amount of time. I was taught the basics of programming by an experienced developer, but I quickly surpassed their abilities and started developing mods that were even better than theirs!
