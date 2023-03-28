@@ -2,10 +2,10 @@
 
 
 
-<div align="center"><img alt="dicord"src="https://discord.c99.nl/widget/theme-3/757589619499073597.png"></div>
+<div align="left"><img alt="dicord"src="https://discord.c99.nl/widget/theme-3/757589619499073597.png"></div>
 
-<div align="center"><img alt= "owo"src ="https://spotify-github-profile.vercel.app/api/view?uid=31of66p6sxwy5algufh3hfclew2a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"></div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NoNoTheGoat&label=Profile%20views&color=0dd3b2&style=flat-square" alt="NoNoTheGoat" /> </p> </p>
+<div align="left"><img alt= "Spot"src ="https://spotify-github-profile.vercel.app/api/view?uid=31of66p6sxwy5algufh3hfclew2a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NoNoTheGoat&label=Profile%20views&color=0dd3b2&style=flat-square" alt="NoNoTheGoat" /> </p> </p>
 Hi there! My name is **Noah** (or **NoNo** for short), and I'm a 15-year-old developer with a passion for creating immersive gaming experiences. I specialize in developing mods for the popular online multiplayer game, FiveM, using the LUA programming language.
 
 I started my journey in the world of development in 2021 and have been continuously improving my skills ever since. It's amazing to see how far I've come in just a short amount of time. I was taught the basics of programming by an experienced developer, but I quickly surpassed their abilities and started developing mods that were even better than theirs!
