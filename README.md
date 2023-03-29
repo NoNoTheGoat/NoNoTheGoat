@@ -31,10 +31,13 @@ When I'm not coding, I enjoy helping my family and spending time with friends. I
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNoTheGoat&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
-   
-   
+
    <h3 align="left">Talk With Me:</h3>
 <p align="center">
+  
+  ![](https://dcbadge.vercel.app/api/shield/757589619499073597&?style=plastic)        ![](https://dcbadge.vercel.app/api/server/hZCbe3vaPy?style=plastic)
+  
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/757589619499073597" target="_blank"><img alt="Account" title="Account" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/hZCbe3vaPy" target="_blank"><img alt="Discord-Server" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="twitter" height="32" width="32" /></a>
